@@ -2,7 +2,7 @@
 
 Chess is a sport, also considered an art and a science. It can be classified as a recreational or competitive board game for two players. Chess is played on a board of light and dark houses, and at the beginning each player controls sixteen pieces with different shapes and characteristics: <br/>
 
-![Chess pieces](images/chess_pieces.png)
+![Chess pieces](other/chess_pieces.PNG)
 
 
 This project contains two different tasks: <br/>
